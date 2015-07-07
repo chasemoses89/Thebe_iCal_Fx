@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Hawaiian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:javafx.scene.control.ComboBox$ComboBoxSelectionModel@b91881
+CREATED:20150627T031544Z
+DESCRIPTION:\n
+DTEND;TZID="Hawaiian Standard Time":ComboBox[id=null, styleClass=combo-box-base combo-box]ComboBox[id=null, styleClass=combo-box-base combo-box]ComboBox[id=null, styleClass=combo-box-base combo-box]TComboBox[id=null, styleClass=combo-box-base combo-box]00
+DTSTAMP:20150627T031544Z
+DTSTART;TZID="Hawaiian Standard Time":ComboBox[id=null, styleClass=combo-box-base combo-box]ComboBox[id=null, styleClass=combo-box-base combo-box]ComboBox[id=null, styleClass=combo-box-base combo-box]TComboBox[id=null, styleClass=combo-box-base combo-box]00
+LAST-MODIFIED:20150627T031544Z
+LOCATION:
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000407663BC33B0D001000000000000000
+	010000000109752F585EB3B448B59159DFD3CF4D2
+END:VEVENT
+END:VCALENDAR
